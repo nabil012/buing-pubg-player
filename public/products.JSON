@@ -1,0 +1,94 @@
+[{
+    "key":"A001",
+    "name": "Revan Talukder",
+    "ingame_name" : "Badrev",
+    "role": "Entry Fragger",
+    "star":4.5,
+    "category" : "A+",
+    "price":125,
+    "price1":20,
+    "img":"https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/227564314_225052792957394_3160441351696659845_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Yx93TzEPwsQAX8m8Stg&_nc_ht=scontent.fdac5-1.fna&oh=00_AT9gSDXbfK_jABIdCaKM76OJ_F28ysYJAnXtGn0Ul1rTvQ&oe=623A5F45",
+    "link" : "https://www.facebook.com/BadrevPUBG"
+    },
+    
+    {
+    "key":"B001",
+    "name": "Md. Shakil ",
+    "ingame_name" : "Sinister",
+    "role": "IGL & Assulter",
+    "star":4.5,
+    "category" : "A+",
+    "price":250,
+    "price1":25,
+    "img":"https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/253594244_286662036797496_7707785724650151423_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=XCnWU71Dq0kAX_ZcQs2&_nc_oc=AQk0X2VtTOPt9MYpCrixMKqwy_h71iHqFtEnQSzbiO4DxCLNvCMqGBVexCVij3UsRis&_nc_ht=scontent.fdac5-2.fna&oh=00_AT9r1X4Rx_3LAkawH8OVCbodmuI2vvYxB4qRKN-B9HwZiw&oe=6239F4FE",
+    "link" : "https://www.facebook.com/sinisterplays"
+    },
+    
+    {
+    "key":"C001",
+    "name": "Unknownn",
+    "ingame_name" : "Steelshot",
+    "role": "Entry Fragger",
+    "star":5,
+    "category" : "A+",
+    "price":210,
+    "price1":20,
+    "img":"https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/261704397_359312075996219_680244520798014966_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=3xxSc_BhsjIAX-KuyW9&_nc_ht=scontent.fdac5-2.fna&oh=00_AT_rJAPMdThM1c4pegref8yy1zgSZ1a5J_UMhX-Kicr-cw&oe=62399714",
+    "link":"https://www.facebook.com/profile.php?id=100039658640322"
+    },
+    
+    
+    {
+    "key":"D001",
+    "name": "Aminul Rahat",
+    "ingame_name" : "Kapshi",
+    "role": "Assulter ",
+    "star":4,
+    "category" : "A",
+    "price":100,
+    "price1":10,
+    "img":"https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/155406544_265609865030088_2532862403521503402_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_ohc=-EC9Ci-qj70AX_1nnPh&_nc_oc=AQl_I_4zIIxoks65rgNmG2bqT7siXJg7B2vx9TE4q0OfZhs4Ubsvfk6T3fyplwwhIi0&_nc_ht=scontent.fdac5-2.fna&oh=00_AT_XD_mVZx4qrWbhfpeYti7TYJXGjqJK-emFHTl1UISLLQ&oe=62597E7E",
+    "link":"https://www.facebook.com/Mr.Kapshi"
+    },
+    
+    {
+    "key":"E001",
+    "name": "Unknown",
+    "ingame_name" : "6NiN3",
+    "role": "Assulter",
+    "Star":5,
+    "category" : "A+",
+    "price":185,
+    "price1":15,
+    "img":"https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/213706746_346379150435442_99267664346289042_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=uZHFEopnY4oAX8ZHCNR&_nc_ht=scontent.fdac5-1.fna&oh=00_AT_-E-XvRRL9KFTnGuqHDYfp0njMTCIbwx32xKpYKPgnWA&oe=623A0176",
+    "link":"https://www.facebook.com/6NiN3Op"
+    },
+    
+    
+    {
+    "key":"G001",
+    "name": "Unknown",
+    "ingame_name" : "ssRafat",
+    "role": "IGL & Assulter",
+    "star":4.5,
+    "category" : "A",
+    "price":150,
+    "price1":12,
+    "img":"https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/158813426_2266097326858598_1360579485281051149_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dSwXRIlu2F4AX8TwgTT&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8l5cY7R8dV0XwtJ-0HGeqwgyPCwWwY74upVBmLmVbW3Q&oe=6259AD6F",
+    "link":"https://www.facebook.com/ssRafat"
+    }
+    ,
+    {
+    "key":"F001",
+    "name": "Unknown",
+    "ingame_name" : "Void",
+    "role": "Assulter",
+    "star":4,
+    "category" : "A",
+    "price":200,
+    "price1":15,
+    "img":"https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/262789774_361152919145468_201799612574495478_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Dekrx3OCJ-AAX8IWPF7&_nc_ht=scontent.fdac5-1.fna&oh=00_AT-A6kF45K0q6hsqX-PitPCsjbi5N6_5WKg018QiS7oAjA&oe=623A7E3C",
+    "link":"https://www.facebook.com/NotVoidGaming"
+    }
+    
+    ]

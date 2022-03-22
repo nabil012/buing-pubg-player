@@ -1,0 +1,18 @@
+hr {
+  width: 200px;
+}
+.box {
+  padding-bottom: 20px;
+}
+.btn {
+  /* background-image: linear-gradient(#f46001, #e14802); */
+  background-color: rgb(143 182 67);
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  width: 160px;
+  height: 40px;
+  font-weight: 500;
+  border: 1px solid rgb(255, 255, 255);
+  cursor: pointer;
+  text-align: center;
+}
